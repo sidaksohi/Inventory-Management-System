@@ -1,5 +1,6 @@
 # Inventory-Management-System
-Inventory Management System using Java, JavaFX, XML, and MySQL
+Inventory Management System using Java, JavaFX, XML, and MySQL. 
+Uses MVC architecture.
 
 # Features
 - Input Validation for all models
